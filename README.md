@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Contact with <a href="4e7f496456df319a2f48121f99f9d.blogspot.com">4e7f496456df...</a> 
+  Contact from <a href="4e7f496456df319a2f48121f99f9d.blogspot.com">4e7f496456df319a2f48121f99f9d</a> 
 </p>
 
 <!--<center>
