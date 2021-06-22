@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Xi-v/Xi-v/main/nuclear_fuel_cycle.jpg)
+![](https://raw.githubusercontent.com/X-iv/X-iv/main/nuclear_fuel_cycle.jpg)
 
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -19,8 +19,8 @@
 <!--<center>
  <table>
    <tr>
-       <td><img width="460px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xi-v&hide=html&layout=compact" /></td>
-       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Xi-v&theme=default" /></td>
+       <td><img width="460px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-iv&hide=html&layout=compact" /></td>
+       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=X-iv&theme=default" /></td>
    </tr>   
  </table>
 </center>-->
