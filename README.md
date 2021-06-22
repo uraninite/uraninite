@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCekqawBcf9hNjVRFW51AYDw?style=social"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCekqawBcf9hNjVRFW51AYDw?label=Subscribe%20%40cet&style=social"/>
 </p>
 
 <p align="center">
