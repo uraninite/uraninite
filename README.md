@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCekqawBcf9hNjVRFW51AYDw">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCekqawBcf9hNjVRFW51AYDw?label=Subscribe%20%40cet&style=social"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCekqawBcf9hNjVRFW51AYDw?label=Subscribe&style=social"/>
   </a>
 </p>
 
