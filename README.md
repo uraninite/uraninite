@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/X-iv/X-iv/main/nuclear_fuel_cycle.jpg)
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCekqawBcf9hNjVRFW51AYDw">
+  <!-- <a href="https://www.youtube.com/channel/UCekqawBcf9hNjVRFW51AYDw">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCekqawBcf9hNjVRFW51AYDw?label=Subscribe&style=social"/>
   </a>
-</p>
+</p>-->
 
 
 <p align="center">
