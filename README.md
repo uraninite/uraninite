@@ -6,10 +6,11 @@
   </a>
 </p>-->
 
-
+<!--
 <p align="center">
-  Contact from <a href="https://4e7f496456df319a2f48121f99f9d.blogspot.com">4e7f496456df319a2f48121f99f9d</a> 
-</p>
+  Contact from <a href="https://4e7f496456df319a2f48121f99f9d.blogspot.com">4e7f496456df319a2f48121f99f9d</a>
+</p> 
+-->
 
 <!--<center>
  <table>
